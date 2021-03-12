@@ -1,0 +1,110 @@
+,HS 1996 Product Code,HS 1996 Product Description,cluster_labels
+3,104,Live sheep and goats.,12
+7,202,"Meat of bovine animals, frozen.",12
+9,204,"Meat of sheep or goats, fresh, chilled or frozen.",12
+10,205,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen.",12
+17,302,"Fish, fresh or chilled, excluding fish fillets and other fish meat of heading No. 03.04.",12
+18,303,"Fish, frozen, excluding fish fillets and other fish meat of heading No. 03.04.",12
+19,304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",12
+20,305,"Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption.",12
+21,306,"Crustaceans, whether in shell or not, live, fresh chilled, frozen, dried, salted or in brine; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and",12
+22,307,"Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; flours, meals and pellets of",12
+42,510,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally prese",12
+49,702,"Tomatoes, fresh or chilled.",12
+50,703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",12
+54,707,"Cucumbers and gherkins, fresh or chilled.",12
+55,708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",12
+56,709,"Other vegetables, fresh or chilled.",12
+60,713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",12
+61,714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",12
+62,801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",12
+63,802,"Other nuts, fresh or dried, whether or not shelled or peeled.",12
+64,803,"Bananas, including plantains, fresh or dried.",12
+65,804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",12
+66,805,"Citrus fruit, fresh or dried.",12
+67,806,"Grapes, fresh or dried.",12
+68,807,"Melons (including watermelons) and papaws (papayas), fresh.",12
+70,809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",12
+71,810,"Other fruit, fresh.",12
+75,814,"Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions.",12
+76,901,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",12
+77,902,"Tea, whether or not flavoured.",12
+79,904,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.,12
+85,910,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",12
+90,1005,Maize (corn).,12
+91,1006,Rice.,12
+94,1101,Wheat or meslin flour.,12
+95,1102,Cereal flours other than of wheat or meslin.,12
+99,1106,"Flour, meal and powder of the dried leguminous vegetables of heading No. 07.13, of sago or of roots or tubers of heading No. 07.14 or of the products of Chapter 8.",12
+104,1202,"Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken.",12
+106,1204,"Linseed, whether or not broken.",12
+109,1207,"Other oil seeds and oleaginous fruits, whether or not broken.",12
+110,1208,"Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",12
+113,1211,"Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered.",12
+114,1212,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium",12
+117,1301,"Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams).",12
+122,1404,Vegetable products not elsewhere specified or included.,12
+124,1502,"Fats of bovine animals, sheep or goats, other than those of heading No. 15.03.",12
+129,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",12
+134,1512,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",12
+138,1516,"Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared.",12
+142,1521,"Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",12
+147,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.,12
+148,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",12
+149,1701,"Cane or beet sugar and chemically pure sucrose, in solid form.",12
+151,1703,Molasses resulting from the extraction or refining of sugar.,12
+160,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",12
+171,2008,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included.",12
+172,2009,"Fruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.",12
+185,2207,"Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher; ethyl alcohol and other spirits, denatured, of any strength.",12
+188,2301,"Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves.",12
+189,2302,"Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants.",12
+193,2306,"Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading No. 23.04 or 23.05.",12
+197,2401,Unmanufactured tobacco; tobacco refuse.,12
+198,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",12
+200,2501,"Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water.",12
+202,2503,"Sulphur of all kinds, other than sublimed sulphur, precipitated sulphur and colloidal sulphur.",12
+205,2506,"Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",12
+210,2511,"Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading No 28.16.",12
+215,2516,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",12
+217,2518,"Dolomite, whether or not calcined; dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; agglomerated dolomite (including tarred dolomite).",12
+219,2520,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate) whether or not coloured, with or without small quantities of accelerators or retarders.",12
+220,2521,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement.",12
+222,2523,"Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers.",12
+228,2529,"Felspar; leucite, nepheline and nepheline syenite; fluorspar.",12
+229,2530,Mineral substances not elsewhere specified or included.,12
+232,2603,Copper ores and concentrates.,12
+236,2607,Lead ores and concentrates.,12
+237,2608,Zinc ores and concentrates.,12
+245,2616,Precious metal ores and concentrates.,12
+260,2710,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils b",12
+263,2713,"Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals.",12
+264,2714,"Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks.",12
+265,2715,"Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs).",12
+367,3102,"Mineral or chemical fertilisers, nitrogenous.",12
+368,3103,"Mineral or chemical fertilisers, phosphatic.",12
+371,3201,"Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives.",12
+393,3401,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered",12
+408,3602,"Prepared explosives, other than propellent powders.",12
+411,3605,"Matches, other than pyrotechnic articles of heading No. 36.04.",12
+487,4101,"Raw hides and skins of bovine or equine animals (fresh, or salted, dried, limed, pickled or otherwide preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split.",12
+488,4102,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not with wool on or split, other than those excluded by No",12
+489,4103,"Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split, other than those excluded by Note 1 (",12
+491,4105,"Sheep or lamb skin leather, without wool on, other than leather of heading No. 41.08 or 41.09.",12
+492,4106,"Goat or kid skin leather, without hair on, other than leather of heading No. 41.08 or 41.09.",12
+493,4107,"Leather of other animals, without hair on, other than leather of heading No. 41.08 or 41.09.",12
+509,4402,"Wood charcoal (including shell or nut charcoal), whether or not agglomerated.",12
+596,5201,"Cotton, not carded or combed.",12
+597,5202,Cotton waste (including yarn waste and garnetted stock).,12
+598,5203,"Cotton, carded or combed.",12
+600,5205,"Cotton yarn (other than sewing thread), containing 85 % or more by weight of cotton, not put up for retail sale.",12
+719,6305,"Sacks and bags, of a kind used for the packing of goods.",12
+801,7108,"Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form.",12
+813,7202,Ferro-alloys.,12
+825,7214,"Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling.",12
+853,7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",12
+869,7403,"Refined copper and copper alloys, unwrought.",12
+894,7601,Unwrought aluminium.,12
+898,7605,Aluminium wire.,12
+910,7801,Unwrought lead.,12
+916,7901,Unwrought zinc.,12
