@@ -1,3 +1,4 @@
+<div align="justify">
 # Product-space
 
 En este proyecto se busca aplicar la metodología de Product Space propuesta por Hidalgo et al. (2007) para diversificación de productos de la Bioeconomía argentina.
@@ -25,3 +26,4 @@ En este proyecto se busca aplicar la metodología de Product Space propuesta por
 - Las clasificaciones (nomenclatura) de **productos** provienen de World Integrated Trade Solutions (WITS). Corresponden a datos a 4 dígitos del sistema armonizado para 1996 (HS1996 o H1)
 - Las clasificaciones de **bienes pertenecientes a la bioeconomía** se extrajeron de Wierny et. al. (2015). En el ANEXO 2: Actividades consideradas para estimar la bioeconomía muestra la clasificación de las actividades según CIIU Rev3.
 - Las tablas de **correspondencias entre CIIU Rev3 y HS1996** se descargaron de World Integrated Trade Solutions (WITS). Allí se ofrece información sobre diversas nomenclaturas de productos, lo que contribuye con el mapeo entre varias nomenclaturas distintas. En este caso se descargó la tabla de correlación o correspondencia entre el SA 1996 (o H1) y la ISIC (o CIIU por su sigla en español) Rev 3. En esta tabla los datos de productos del SA se encuentran a 6 dígitos por lo que se realiza un trabajo de conversión a nivel de partida para poder cruzar con los de comercio con que se está trabajando.
+</div>
