@@ -18,7 +18,9 @@ En este proyecto se busca aplicar la metodología de Product Space propuesta por
 
 ### Datos de comercio 
 
-* En el paper original se usan productos desagregados según la SITC revisión 4 a nivel de cuatro dígitos, de la base de datos de UNCOMTRADE. En este caso se utilizarán datos de [WITS](http://wits.worldbank.org/) provenientes de UNComtrade correspondientes al sistema armonizado (HS) a 4 dígitos para los años 1997 a 1999, 2007 a 2009 y 2017 a 2019. Se descargaron por partes los datos porque la consulta no puede exceder de 100 mil filas. Año por año se descargaron las exportaciones al Mundo a 4 dígitos del SA en dos grupos de países: con nombres de A a L (A_L) y M a Z (M_Z).
+* En el paper original se usan productos desagregados según la SITC revisión 4 a nivel de cuatro dígitos, de la base de datos de UNCOMTRADE. En este caso se utilizarán **datos de [WITS](http://wits.worldbank.org/) provenientes de UNComtrade correspondientes al sistema armonizado (HS) a 4 dígitos** para los años 1997 a 1999, 2007 a 2009 y 2017 a 2019. 
+* La idea es calcular el espacio de productos para 3 momentos del tiempo distintos: comparar el comportamiento promedio (para cada grupo de 3 años) de cada país en los distintos momentos del tiempo y analizar si hubo cambios. 
+* Se descargaron los datos por partes ya que la consulta no puede exceder de 100 mil filas. Año por año se descargaron las exportaciones al Mundo a 4 dígitos del SA en dos grupos de países: con nombres de A a L (A_L) y M a Z (M_Z).
 * Fecha de descarga: 15 de enero 2021. 
 * Detalles de la consulta (query name: 4digproductspace) => ALL2 -- Heading (all 4-digit HS codes) HS 1996 (Selected Classification), Trade Flow Exports y Partners World -- WLD.
 
