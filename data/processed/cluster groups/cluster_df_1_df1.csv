@@ -1,44 +1,123 @@
-,HS_code,HS_description,cluster_labels
-201,2502,Unroasted iron pyrites.,1
-224,2525,"Mica, including splittings; mica waste.",1
-225,2526,"Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc.",1
-287,2821,Iron oxides and hydroxides; earth colours containing 70% or more by weight of combined iron evaluated as FE2 O3,1
-289,2823,Titanium oxides,1
-320,2903,Halogenated derivatives of hydrocarbons,1
-323,2906,"Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",1
-325,2908,"Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols.",1
-328,2911,"Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",1
-329,2912,"Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde.",1
-337,2920,"Esters of other inorganic acids (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives.",1
-338,2921,Amine-function compounds.,1
-339,2922,Oxygen-function amino-compounds.,1
-342,2925,Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds.,1
-347,2930,Organo-sulphur compounds.,1
-348,2931,Other organo-inorganic compounds.,1
-349,2932,Heterocyclic compounds with oxygen hetero-atom(s) only.,1
-351,2934,Nucleic acids and their salts; other heterocyclic compounds.,1
-353,2936,"Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent.",1
-355,2938,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",1
-457,3914,"Ion-exchangers based on polymers of headings Nos. 39.01 to 39.13, in primary forms.",1
-615,5308,Yarn of other vegetable textile fibres; paper yarn.,1
-616,5309,Woven fabrics of flax.,1
-633,5507,"Artificial staple fibres, carded, combed or otherwise processed for spinning.",1
-638,5512,"Woven fabrics of synthetic staple fibres, containing 85 % or more by weight of synthetic staple fibres.",1
-647,5605,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading No. 54.04 or 54.05, combined with metal in the form of thread, strip or powder or covered with metal.",1
-657,5801,"Woven pile fabrics and chenille fabrics, other than fabrics of heading No. 58.02 or 58.06.",1
-659,5803,"Gauze, other than narrow fabrics of heading No. 58.06.",1
-665,5809,"Woven fabrics of metal thread and woven fabrics of metallised yarn of heading No. 56.05, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included.",1
-757,6813,"Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not",1
-758,6814,"Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",1
-762,6903,"Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths and rods), other than those of siliceous fossil meals or of similar siliceous earths.",1
-787,7014,"Signalling glassware and optical elements of glass (other than those of heading No. 70.15), not optically worked.",1
-798,7105,Dust and powder of natural or synthetic precious or semi-precious stones.,1
-838,7227,"Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel.",1
-843,7303,"Tubes, pipes and hollow profiles, of cast iron.",1
-930,8101,"Tungsten (wolfram) and articles thereof, including waste and scrap.",1
-1013,8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for us",1
-1014,8446,Weaving machines (looms).,1
-1156,9017,"Drawing, marking-out or mathematical calculating instruments (e.g., drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (e.g., measuringrods a",1
-1191,9205,"Other wind musical instruments (for example, clarinets, trumpets, bagpipes).",1
-1194,9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this  Chapter; decoy calls of all kinds; whistles, call horns and o",1
-1202,9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",1
+product_i,HS_code,HS_description,cluster_labels
+502,502,"Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",1
+505,505,"Shins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disingected or treated for preservation; powder and waste of feat",1
+712,712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",1
+2003,2003,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",1
+2006,2006,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glac or crystallised).",1
+2511,2511,"Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading No 28.16.",1
+2704,2704,"Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon.",1
+2708,2708,"Pitch and pitch coke, obtained from coal tar or from other mineral tars.",1
+2805,2805,"Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury.",1
+2812,2812,Halides and halide oxides of non-metals.,1
+2822,2822,Cobalt oxides and hydroxides; commercial cobalt oxides,1
+2826,2826,"Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts",1
+2831,2831,Dithionites and sulphoxylates,1
+2841,2841,Salts of oxometallic or peroxometallic acids,1
+2846,2846,"Compounds, inorganic or organic, of rate-earth metals, of yttrium or of scandium or of mixtures of these metals",1
+2848,2848,"Phosphides, whether or not chemically defined, excluding ferrophosphorus",1
+2850,2850,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading No. 28.49",1
+2913,2913,"Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading No. 29.12.",1
+2919,2919,"Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives.",1
+2924,2924,Carboxyamide-function compounds; amide-function compounds of carbonic acid.,1
+2927,2927,"Diazo-, azo- or azoxy-compounds.",1
+3604,3604,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",1
+3702,3702,"Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.",1
+3705,3705,"Photographic plates and film, exposed and developed, other than cinematographic film.",1
+3707,3707,"Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for",1
+3818,3818,"Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics.",1
+3918,3918,"Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.",1
+4013,4013,"Inner tubes, of rubber.",1
+4202,4202,"Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, toilet bags, rucksac",1
+4303,4303,"Articles of apparel, clothing accessories and other articles of furskin.",1
+4809,4809,"Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets.",1
+4903,4903,"Children's picture, drawing or colouring books.",1
+4909,4909,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings.",1
+5002,5002,Raw silk (not thrown).,1
+5003,5003,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",1
+5004,5004,Silk yarn (other than yarn spun from silk waste) not put up for retail sale.,1
+5005,5005,"Yarn spun from silk waste, not put up for retail sale.",1
+5007,5007,Woven fabrics of silk or of silk waste.,1
+5108,5108,"Yarn of fine animal hair (carded or combed), not put up for retail sale.",1
+5113,5113,Woven fabrics of coarse animal hair or of horsehair.,1
+5311,5311,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.,1
+5405,5405,"Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the  like (for example, artificial straw) of artificial textile materials of an apparent width not exce",1
+5406,5406,"Man-made filament yarn (other than sewing thread), put up for retail sale.",1
+5504,5504,"Artificial staple fibres, not carded, combed or otherwise processed for spinning.",1
+5513,5513,"Woven fabrics of synthetic staple fibres, containing less than 85 % by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m2.",1
+5705,5705,"Other carpets and other textile floor coverings, whether or not made up.",1
+5805,5805,"Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up.",1
+5901,5901,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind us",1
+5903,5903,"Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading No. 59.02.",1
+6001,6001,"Pile fabrics, including long pile fabrics and terry fabrics, knitted or crocheted.",1
+6116,6116,"Gloves, mittens and mitts, knitted or crocheted.",1
+6215,6215,"Ties, bow ties and cravats.",1
+6301,6301,Blankets and travelling rugs.,1
+6402,6402,Other footwear with outer soles and uppers of rubber or plastics.,1
+6501,6501,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",1
+6502,6502,"Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed.",1
+6504,6504,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",1
+6601,6601,"Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).",1
+6602,6602,"Walking-sticks, seat-sticks, whips, riding-crops and the like.",1
+6701,6701,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading No. 05.05 and worked quills and scapes).",1
+6702,6702,"Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",1
+6803,6803,Worked slate and articles of slate or of agglomerated slate.,1
+6911,6911,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",1
+6913,6913,Statuettes and other ornamental ceramic articles.,1
+7003,7003,"Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.",1
+7004,7004,"Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.",1
+7006,7006,"Glass of heading No. 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials.",1
+7009,7009,"Glass mirrors, whether or not framed, including rear-view mirrors.",1
+7015,7015,"Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture o",1
+7016,7016,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and and other glass smallwares, whether or not on a bac",1
+7018,7018,"Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of la",1
+7101,7101,"Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",1
+7111,7111,"Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured.",1
+7323,7323,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",1
+7410,7410,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",1
+8103,8103,"Tantalum and articles thereof, including waste and scrap.",1
+8106,8106,"Bismuth and articles thereof, including waste and scrap.",1
+8111,8111,"Manganese and articles thereof, including waste and scrap.",1
+8213,8213,"Scissors, tailors' shears and similar shears, and blades therefor.",1
+8214,8214,"Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files).",1
+8215,8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware.",1
+8306,8306,"Bells, gongs and the like, non-electric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal.",1
+8444,8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials.",1
+8447,8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting.",1
+8449,8449,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats.",1
+8470,8470,"Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculati",1
+8471,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included.",1
+8473,8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings Nos. 84.69 to 84.72.",1
+8513,8513,"Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading No. 85.12.",1
+8517,8517,"Electrical apparatus for line telephony or line telegraphy, including line telephone sets with cordless handsets and telecommunication apparatus for carrier-current line systems or for digital line systems; videophones.",1
+8521,8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner.",1
+8522,8522,Parts and accessories suitable for use solely or principally with the apparatus of headings Nos. 85.19 to 85.21.,1
+8529,8529,Parts suitable for use solely or principally with the apparatus of headings Nos. 85.25 to 85.28.,1
+8532,8532,"Electrical capacitors, fixed, variable or adjustable (pre-set).",1
+8534,8534,Printed circuits.,1
+8541,8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes; mounted piezo-el",1
+8542,8542,Electronic integrated circuits and microassemblies.,1
+8543,8543,"Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter.",1
+8548,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or inc",1
+8905,8905,"Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",1
+9004,9004,"Spectacles, goggles and the like, corrective, protective or other.",1
+9010,9010,"Apparatus and equipment for photographic (including cinematographic) laboratories (including apparatus for the projection or drawing of circuit patterns on sensitised semiconductor materials), not specified or included elsewhere in this",1
+9011,9011,"Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",1
+9013,9013,"Liquid crystal devices not constituting articles provided for more specifically in other headings; lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapt",1
+9016,9016,"Balances of a sensitivity of 5 cg or better, with or without weights.",1
+9102,9102,"Wrist-watches, pocket-watches and other watches, including stop-watches, other than those of heading No. 91.01.",1
+9105,9105,Other clocks.,1
+9108,9108,"Watch movements, complete and assembled.",1
+9109,9109,"Clock movements, complete and assembled.",1
+9110,9110,"Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements.",1
+9111,9111,Watch cases and parts thereof.,1
+9112,9112,"Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof.",1
+9114,9114,Other clock or watch parts.,1
+9201,9201,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",1
+9503,9503,"Other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds.",1
+9505,9505,"Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes.",1
+9605,9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning.",1
+9613,9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks.",1
+9614,9614,"Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof.",1
+9615,9615,"Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading No. 85.16, and parts thereof.",1
+9616,9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powder-puffs and pads for the application of cosmetics or toilet preparations.",1
+9617,9617,"Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners.",1
