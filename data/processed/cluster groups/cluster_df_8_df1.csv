@@ -1,31 +1,53 @@
-,HS_code,HS_description,cluster_labels
-119,1401,"Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).",8
-161,1903,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms.",8
-332,2915,"Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",8
-418,3706,"Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track.",8
-421,3802,"Activated carbon; activated natural mineral products; animal black, including spent animal black.",8
-472,4003,"Reclaimed rubber in primary forms or in plates, sheets or strip.",8
-483,4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber.",8
-521,4414,"Wooden frames for paintings, photographs, mirrors or similar objects.",8
-526,4419,"Tableware and kitchenware, of wood.",8
-527,4420,"Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94.",8
-714,6217,"Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading No. 62.12.",8
-735,6505,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but   not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimm",8
-737,6507,"Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear.",8
-806,7113,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",8
-810,7117,Imitation jewellery.,8
-948,8206,"Tools of two or more of the headings Nos. 82.02 to 82.05, put up in sets for retail sale.",8
-961,8304,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than office furniture of heading No. 94.03.",8
-1020,8452,"Sewing machines, other than book-sewing machines of heading No. 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles.",8
-1059,8506,Primary cells and primary batteries.,8
-1072,8519,"Turntables (record-decks), record-players, cassette-players and other sound reproducing apparatus, not incorporating a sound recording device.",8
-1123,8713,"Invalid carriages, whether or not motorised or otherwise mechanically propelled.",8
-1145,9006,Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading No. 85.39.,8
-1148,9009,Photo-copying apparatus incorporating an optical system or of the contact type and thermo-copying apparatus.,8
-1178,9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time-registers, time-recorders).",8
-1188,9202,"Other string musical instruments (for example, guitars, violins, harps).",8
-1192,9206,"Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas).",8
-1193,9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs,  guitars, accordions).",8
-1215,9507,"Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy birds (other than those of heading No. 92.08 or 97.05) and similar hunting or shooting requisites.",8
-1217,9601,"Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by moulding).",8
-1226,9610,"Slates and boards, with writing or drawing surfaces, whether or not framed.",8
+product_i,HS_code,HS_description,cluster_labels
+2940,2940,"Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers and sugar esters, and their salts, other than products of heading No. 29.37, 29.38 or 29.39.",8
+3207,3207,"Prepared pigments, prepared and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the",8
+3919,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.",8
+4801,4801,"Newsprint, in rolls or sheets.",8
+4807,4807,"Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets.",8
+4810,4810,"Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or print",8
+5910,5910,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",8
+6804,6804,"Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or art",8
+7109,7109,"Base metals or silver, clad with gold, not further worked than semi-manufactured.",8
+7218,7218,Stainless steel in ingots or other primary forms; semi-finished products of stainless steel.,8
+7221,7221,"Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel.",8
+7224,7224,Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel.,8
+7225,7225,"Flat-rolled products of other alloy steel, of a width of 600 mm or more.",8
+7226,7226,"Flat-rolled products of other alloy steel, of a width of less than 600 mm.",8
+7229,7229,Wire of other alloy steel.,8
+7315,7315,"Chain and parts thereof, of iron or steel.",8
+7318,7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel.",8
+7409,7409,"Copper plates, sheets and strip, of a thickness exceeding 0.15 mm.",8
+8113,8113,"Cermets and articles thereof, including waste and scrap.",8
+8202,8202,"Hand saws; blades for saws of all kinds (including slitting, slotting or toothless saw blades).",8
+8207,8207,"Interchangeable tools for hand tools, whether or not power-operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including die",8
+8406,8406,Steam turbines and other vapour turbines.,8
+8420,8420,"Calendering or other rolling machines, other than for metals or glass, and cylinders therefor.",8
+8439,8439,Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard.,8
+8448,8448,"Auxiliary machinery for use with machines of heading No.84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally wi",8
+8451,8451,"Machinery (other than machines of heading No.84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up",8
+8454,8454,"Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries.",8
+8455,8455,Metal-rolling mills and rolls therefor.,8
+8456,8456,"Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes.",8
+8458,8458,Lathes (including turning centres) for removing metal.,8
+8460,8460,"Machine-tools for deburring, sharpening, grinding,honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing",8
+8461,8461,"Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included",8
+8462,8462,"Machine-tools (including presses) for working metal by forging, hammering or die-stamping; machine-tools (including presses) for working metal by bending, folding, straightening, flattening, shearing, punching or notching; presses for w",8
+8464,8464,"Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass.",8
+8466,8466,"Parts and accessories suitable for use solely or principally with the machines of headings Nos.84.56 to 84.65, including work or tool holders, self-opening dieheads, dividing heads and other special attachments for machine-tools; tool h",8
+8467,8467,"Tools for working in the hand, pneumatic, hydraulic or with self-contained non-electric motor.",8
+8475,8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.",8
+8477,8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter.",8
+8479,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter.",8
+8480,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics.",8
+8482,8482,Ball or roller bearings.,8
+8483,8483,"Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearings; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels an",8
+8484,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or si",8
+8514,8514,Industrial or laboratory electric (including induction or dielectric) furnaces and ovens; other industrial or laboratory induction or dielectric heating equipment.,8
+8515,8515,"Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric",8
+8601,8601,Rail locomotives powered from an external source of electricity or by electric accumulators.,8
+8603,8603,"Self-propelled railway or tramway coaches, vans and trucks, other than those of heading No. 86.04.",8
+8604,8604,"Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",8
+8605,8605,"Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading No. 86.04).",8
+9031,9031,"Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",8
+9302,9302,"Revolvers and pistols, other than those of heading No. 93.03 or 93.04.",8
+9304,9304,"Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading No. 93.07.",8

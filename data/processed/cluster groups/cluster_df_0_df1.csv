@@ -1,66 +1,120 @@
-,HS_code,HS_description,cluster_labels
-98,1105,"Flour, meal, powder, flakes, granules and pellets of potatoes.",0
-102,1109,"Wheat gluten, whether or not dried.",0
-112,1210,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",0
-125,1503,"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared.",0
-128,1506,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",0
-167,2004,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading No. 20.06.",0
-234,2605,Cobalt ores and concentrates.,0
-242,2613,Molybdenum ores and concentrates.,0
-279,2813,Sulphides of non-metals; commercial phosphorus trisulphide,0
-282,2816,"Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium",0
-309,2843,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals",0
-310,2844,Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their coumpounds; mixtures and residues containing these products,0
-311,2845,"Isotopes other than those of heading No. 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",0
-317,2851,"Other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals",0
-326,2909,"Ethers, ether-alcohols, ether-phenols, ether-alcohol- phenols, alcohol peroxides, ether peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivativ",0
-345,2928,Organic derivatives of hydrazine or of hydroxylamine.,0
-346,2929,Compounds with other nitrogen function.,0
-350,2933,Heterocyclic compounds with nitrogen hetero-atom(s) only.,0
-352,2935,Sulphonamides.,0
-387,3302,"Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind",0
-400,3501,"Casein, caseinates and other casein derivatives; casein glues.",0
-413,3701,"Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.",0
-415,3703,"Photographic paper, paperboard and textiles, sensitised, unexposed.",0
-422,3803,"Tall oil, whether or not refined.",0
-430,3811,"Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purpos",0
-497,4111,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls.",0
-535,4701,Mechanical wood pulp.,0
-538,4704,"Chemical wood pulp, sulphite, other than dissolving grades.",0
-547,4806,"Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets.",0
-568,4904,"Music, printed or in manuscript, whether or not bound or illustrated.",0
-576,5001,Silk-worm cocoons suitable for reeling.,0
-608,5301,"Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",0
-628,5502,Artificial filament tow.,0
-671,5904,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",0
-743,6703,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",0
-765,6906,"Ceramic pipes, conduits, guttering and pipe fittings.",0
-775,7002,"Glass in balls (other than microspheres of heading No. 70.18), rods or tubes, unworked.",0
-800,7107,"Base metals clad with silver, not further worked than semi-manufactured.",0
-803,7110,"Platinum, unwrought or in semi-manufactured forms, or in powder form.",0
-814,7203,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 %, in lumps, pellets or similar forms.",0
-872,7406,Copper powders and flakes.,0
-887,7502,Unwrought nickel.,0
-889,7504,Nickel powders and flakes.,0
-891,7506,"Nickel plates, sheets, strip and foil.",0
-892,7507,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",0
-893,7508,Other articles of nickel.,0
-906,7613,Aluminium containers for compressed or liquefied gas.,0
-913,7804,"Lead plates, sheets, strip and foil; lead powders and flakes.",0
-934,8105,"Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap.",0
-937,8108,"Titanium and articles thereof, including waste and scrap.",0
-938,8109,"Zirconium and articles thereof, including waste and scrap.",0
-941,8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium, and articles of these metals, including waste and scrap.",0
-951,8209,"Plates, sticks, tips and the like for tools, unmounted, of cermets.",0
-964,8307,"Flexible tubing of base metal, with or without fittings.",0
-969,8401,"Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation.",0
-1025,8457,"Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal.",0
-1128,8802,"Other aircraft (for example, helicopters, aeroplanes); spacecraft (including satellites) and suborbital and spacecraft launch vehicles.",0
-1151,9012,Microscopes other than optical microscopes; diffraction apparatus.,0
-1161,9022,"Apparatus based on the use of X-rays or of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high t",0
-1173,9101,"Wrist-watches, pocket-watches and other watches, including stop-watches, with case of precious metal or of metal clad with precious metal.",0
-1176,9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels.",0
-1235,9701,"Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading No. 49.06 and other than hand-painted or hand-decorated manufactured articles; collages and similar decorative plaques.",0
-1236,9702,"Original engravings, prints and lithographs.",0
-1237,9703,"Original sculptures and statuary, in any material.",0
-1240,9706,Antiques of an age exceeding one hundred years.,0
+product_i,HS_code,HS_description,cluster_labels
+101,101,"Live horses, asses, mules and hinnies.",0
+203,203,"Meat of swine, fresh, chilled or frozen.",0
+210,210,"Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal.",0
+405,405,Butter and other fats and oils derived from milk; dairy spreads.,0
+704,704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",0
+705,705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",0
+711,711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",0
+808,808,"Apples, pears and quinces, fresh.",0
+1214,1214,"Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",0
+1302,1302,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",0
+1603,1603,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",0
+2205,2205,Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.,0
+2209,2209,Vinegar and substitutes for vinegar obtained from acetic acid.,0
+2307,2307,Wine lees; argol.,0
+2518,2518,"Dolomite, whether or not calcined; dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; agglomerated dolomite (including tarred dolomite).",0
+2703,2703,"Peat (including peat litter), whether or not agglomerated.",0
+2824,2824,Lead oxides; red lead and orange lead,0
+2904,2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated",0
+2914,2914,"Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",0
+2916,2916,"Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",0
+2918,2918,"Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",0
+2923,2923,Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids.,0
+2937,2937,"Hormones, natural or reproduced by synthesis; derivatives thereof, used primarily as hormones; other steroids used primarily as hormones.",0
+2939,2939,"Vegetable alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",0
+2941,2941,Antibiotics.,0
+3001,3001,"Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared",0
+3002,3002,"Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; vaccines, toxin",0
+3006,3006,Pharmaceutical goods specified in Note 4 to this Chapter.,0
+3203,3203,"Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegeta",0
+3204,3204,"Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening",0
+3206,3206,"Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading No. 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined.",0
+3213,3213,"Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings.",0
+3403,3403,"Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations, based on lubricants) and preparations of a kind used for the oil or",0
+3404,3404,Artificial waxes and prepared waxes.,0
+3407,3407,"Modelling pastes, including those put up for children's amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar for",0
+3502,3502,"Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 % whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",0
+3503,3503,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading No. 35.01.",0
+3504,3504,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",0
+3505,3505,"Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",0
+3507,3507,Enzymes; prepared enzymes not elsewhere specified or included.,0
+3804,3804,"Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading No. 38.03.",0
+3806,3806,"Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums.",0
+3807,3807,"Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch.",0
+3813,3813,Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades.,0
+3815,3815,"Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included.",0
+3819,3819,"Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals.",0
+3821,3821,Prepared culture media for development of micro-organisms.,0
+3822,3822,"Diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading No. 30.02 or 30.06.",0
+3824,3824,"Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included; residual products o",0
+3904,3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms.",0
+3905,3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms.",0
+3906,3906,Acrylic polymers in primary forms.,0
+3907,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.",0
+3908,3908,Polyamides in primary forms.,0
+3909,3909,"Amino-resins, phenolic resins and polyurethanes, in primary forms.",0
+3912,3912,"Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.",0
+3913,3913,"Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.",0
+4006,4006,"Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber.",0
+4201,4201,"Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any material.",0
+4304,4304,Artificial fur and articles thereof.,0
+4416,4416,"Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves.",0
+4905,4905,"Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.",0
+4908,4908,Transfers (decalcomanias).,0
+5006,5006,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut.",0
+5104,5104,Garnetted stock of wool or of fine or coarse animal hair.,0
+5110,5110,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale.",0
+5111,5111,Woven fabrics of carded wool or of carded fine animal hair.,0
+5112,5112,Woven fabrics of combed wool or of combed fine animal hair.,0
+5302,5302,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",0
+5404,5404,Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the,0
+5506,5506,"Synthetic staple fibres, carded, combed or otherwise processed for spinning.",0
+5704,5704,"Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up.",0
+5905,5905,Textile wall coverings.,0
+5906,5906,"Rubberised textile fabrics, other than those of heading No. 59.02.",0
+6210,6210,"Garments, made up of fabrics of heading No. 56.02, 56.03, 59.03, 59.06 or 59.07.",0
+6216,6216,"Gloves, mittens and mitts.",0
+6404,6404,"Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials.",0
+6506,6506,"Other headgear, whether or not lined or trimmed.",0
+6901,6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths.",0
+6914,6914,Other ceramic articles.,0
+7017,7017,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated.",0
+7205,7205,"Granules and powders, of pig iron, spiegeleisen, iron or steel.",0
+7219,7219,"Flat-rolled products of stainless steel, of a width of 600 mm or more.",0
+7220,7220,"Flat-rolled products of stainless steel, of a width of less than 600 mm.",0
+7222,7222,"Other bars and rods of stainless steel; angles, shapes and sections of stainless steel.",0
+7223,7223,Wire of stainless steel.,0
+7415,7415,"Nails, tacks, drawing pins, staples (other than those of heading No.83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spri",0
+7418,7418,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",0
+7505,7505,"Nickel bars, rods, profiles and wire.",0
+7905,7905,"Zinc plates, sheets, strip and foil.",0
+8203,8203,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools.",0
+8204,8204,"Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles.",0
+8210,8210,"Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink.",0
+8211,8211,"Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading No. 82.08, and blades therefor.",0
+8405,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers.",0
+8423,8423,"Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds.",0
+8427,8427,Fork-lift trucks; other works trucks fitted with lifting or handling equipment.,0
+8438,8438,"Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable fats or o",0
+8440,8440,"Book-binding machinery, including book-sewing machines.",0
+8441,8441,"Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds.",0
+8463,8463,"Other machine-tools for working metal or cermets, without removing material.",0
+8472,8472,"Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, pe",0
+8711,8711,"Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars.",0
+9007,9007,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",0
+9014,9014,Direction finding compasses; other navigational instruments and appliances.,0
+9018,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments.",0
+9019,9019,"Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",0
+9020,9020,"Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",0
+9021,9021,"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compe",0
+9023,9023,"Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",0
+9024,9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",0
+9027,9027,"Instruments + apparatus for physical or chemical analysis (e.g., polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface",0
+9103,9103,"Clocks with watch movements, excluding clocks of heading No. 91.04.",0
+9303,9303,"Other firearms and similar devices which operate by the firing of an explosive charge (e.g., sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project only signal flares, pistols and revol",0
+9305,9305,Parts and accessories of articles of headings Nos. 93.01 to 93.04.,0
+9602,9602,"Worked vegetable or mineral carving material and articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere s",0
+9618,9618,Tailors' dummies and other lay figures; automata and other animated displays used for shop window dressing.,0
+9704,9704,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used, or if unused not of current or new issue in the country to which they are destined.",0
+9705,9705,"Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest.",0
