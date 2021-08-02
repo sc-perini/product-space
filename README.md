@@ -1,6 +1,6 @@
 # Product-space
 
-En este proyecto se busca aplicar la metodología de Product Space propuesta por Hidalgo et al. (2007) para diversificación de productos de Argentina.
+En este proyecto se busca aplicar la metodología de Product Space propuesta por Hidalgo et al. (2007) para identificar cambios en el espacio de productos a través del tiempo y evaluar las posibilidades de diversificación de productos de Argentina.
 
 # Sobre el uso de este repositorio
 
